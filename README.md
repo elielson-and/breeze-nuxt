@@ -91,3 +91,10 @@ Locally preview production build:
 ```bash
 pnpm preview
 ```
+
+To Fix node build add this in env
+```bash
+NIXPACKS_NODE_VERSION=20
+```
+
+
